@@ -9,13 +9,13 @@
 
 * Cuda
 
-* OpenCV
+* OpenCV>=3.4.3
 
-## Training
+## Training&Testing
 
-1. label with the size of salient objects can be find in `./SOD_label`;
+1. Labels with the size of salient objects can be find in `./SOD_label`;
 
-2. start to train with `python SDCNet.py`;
+2. Start to train with `python SDCNet.py`;
 
-3. test the model by `python infer_SDCNet.py`.
+3. Test the model by `python infer_SDCNet.py`.
 

@@ -5,7 +5,7 @@
 
 * python>=3.6
 
-* PyTorch>=1.5.0
+* PyTorch>=1.4.0
 
 * Cuda
 

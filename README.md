@@ -3,7 +3,7 @@
 
 ## Requirements
 
-* python>=3.6
+* Python>=3.6
 
 * PyTorch>=1.4.0
 
